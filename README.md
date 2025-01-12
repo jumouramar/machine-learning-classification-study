@@ -11,6 +11,8 @@ Estudo em Python para treinar Árvores de Decisão, Random Forest e Rede Neural 
 
 4. random_forest_classifier.py: treinamento de Random Forest
 
+5. neural_network_mlp_classifier.py: treinamento de Rede Neural MLP
+
 ### Como executar o código?
 
 1. Prepare o ambiente
