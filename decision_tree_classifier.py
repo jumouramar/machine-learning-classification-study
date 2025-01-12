@@ -1,3 +1,5 @@
+import pandas as pd
+
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, f1_score
 from sklearn.model_selection import KFold
